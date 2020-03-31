@@ -1,3 +1,3 @@
 # Angular-Study
 
-[https://brucew-lelouch.github.io/Angular-Study/MessageComunicate/src/index.html]" yes"
+[https://brucew-lelouch.github.io/Angular-Study/MessageComunicate/dist/index.html]" yes"
